@@ -1,14 +1,20 @@
 # main links
 main:
-  - title: "Cours particuliers"
-    url: /coursParticuliers/
+  - title: "Cours particuliers et prestations"
+    url: /coursPart/
     child:
-      - title: "Apprentissage"
-        url: /sports/ecole_sauvetage/
-      - title: "Natation-sauvetage loisirs"
-        url: /sports/sauvetage_loisir/
+      - title: "Nos cours et prestations"
+        url: /coursPart/#coursPrestations
+      - title: "Nat' Enfant"
+        url: /coursPart/#natEnfant
+      - title: "Nat' Ado"
+        url: /coursPart/#natAdo
+      - title: "Nat' Ado"
+        url: /coursPart/#natAdulte
+      - title: "Nataqua' Safe"
+        url: /coursPart/#nataquasafe  
       - title: "Aquagym"
-        url: /sports/aquagym/
+        url: /coursPart/#aquagym    
   - title: "Prévention des noyades"
     url: /prevention/
     child:
