@@ -1,0 +1,67 @@
+<!-- start custom footer snippets -->
+<div class="citation">
+  <p>Citation du moment : "Il me faut écrire comme il me faut nager" Albert CAMUS </p>
+</div>
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
+  </ul>
+</div>
+
+<div class="partenaire"> 
+  <p>Nos partenaires</p>
+</div>
+
+<div class="pied5">
+    <a href="https://www.lyonsauvetagemetropole.fr/"><img src="" alt="logo_LSM"></a>
+   
+  </div>
+  
+  
+  <div class="pied">
+    
+    <div class="pied2">
+      <div class="pied1">
+          <h2><a href="/sports/">Cours paerticuliers</a></h2>
+              <p><a href="/sports/ecole_natation/">École de Natation Sauvetage</a></p>
+              <p><a href="/sports/sauvetage_loisir/">Natation-Sauvetage loisirs</a></p>
+              <p><a href="/sports/aquagym/">Aquagym</a></p>
+              <!-- <p><a href="/sports/stages/">Stages</a></p> -->
+      </div>
+      <div class="pied1">
+        <h2><a href="/formations/">Formations</a></h2>
+            
+      </div>
+      <div class="pied1">
+        <h2><a href="/prevention/">Prévention des Noyades</a></h2>
+            <p><a href="/prevention/conseils/">Nos conseils</a></p>
+            <p><a href="/prevention/jnpn/"></a></p>
+            <p><a href="/prevention/intervention/"></a></p>
+            <p><a href="/prevention/sauvetage_scolaire/"></a></p>
+            <p><a href="/prevention/evenementiel/"></a></p>
+      </div>    
+      <div class="pied1">
+        
+            
+    </div>
+    </div>
+   
+  </div>
+  
+<!-- end custom footer snippets -->

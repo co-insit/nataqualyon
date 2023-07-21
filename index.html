@@ -1,0 +1,72 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: "Nataqua'Lyon"
+layout: splash
+permalink: /
+classes: 
+  - landing
+header:   
+  overlay_color: 
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/
+  og_image: "/assets/"
+  excerpt: "Cours particuliers chez vous et près de chez vous"
+intro:
+  - excerpt: "Bienvenue sur Nataqua'Lyon, la coopérative des cours particuliers de natation de la Métropole Lyonnaise.<br> 
+  Nataqua'Lyon est un collectif de Maîtres-Nageurs Sauveteurs qui enseignent la natation à tous quel que soit votre niveau.<br>
+  Les MNS de Nataqua'Lyon sont des professionnels diplomés et expérimentés. <br> Vous trouverez un panel de prestations proposés par les MNS.
+  <br> Contactez-nous et un MNS vous répondra dans les plus brefs délais afin de répondre à vos demandes."
+    
+feature_row1:
+  - image_path: /assets/images/Lion-vague_morphing.jpg
+    alt: ""
+    title: "Nat'Enfant"
+    excerpt: "Savoir nager est une nécessité autant que savoir lire et compter. 
+    C'est la meilleure prévention contre les noyades alors autant commencer dès que possible."
+    url: /natEnfant/
+    btn_label: "Dès 5 ans"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Lion-vague_morphing.jpg
+    alt: ""
+    title: "Nat'Ado"
+    excerpt: "Pour tous les jeunes qui souhaitent rattraper un retard ou progresser plus rapidement."
+    url: /natAdo/
+    btn_label: "Dès 11 ans"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Lion-vague_morphing.jpg
+    alt: ""
+    title: "Nat'Adulte"
+    excerpt: "Vous souhaitez apprendre à nager, pratiquer une activité sport santé, vous avez un défi à réaliser, vous souhaitez vous entrainer... "
+    url: "/natAdulte/"
+    btn_label: "Nat'Adulte"
+    btn_class: "btn--primary"
+   
+  
+feature_row3:
+  - image_path: /assets/images/Lion-vague_morphing.jpg
+    alt: "Nataqua'Safe"
+    title: "Nataqua'Safe"
+    excerpt: "Focus sur notre programme d'apprentissage destiné à rendre les enfants acteurs de leur propre sécurité aquatique"
+    url: "/calendrier/"
+    btn_label: "Nataqua'Safe"
+    btn_class: "btn--primary"
+  
+
+  
+---
+<h3>Site en construction</h3>
+
+{% include feature_row id="intro" type="center" %}
+
+
+
+<h2>Nos cours et prestations</h2>
+
+  
+{% include feature_row1 id="feature_row1" %}
+  
+  
+{% include feature_row id="feature_row3" type="right" %}
+  
+{% include feature_row id="feature_row4" type="left" %}
