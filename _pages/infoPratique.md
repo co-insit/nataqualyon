@@ -5,7 +5,12 @@ permalink: /infoPratiques/
 classes: wide
 ---
 ## Fonctionnement général
-
+Les cours particuliers de Nataqua'Lyon sont proposés par un collectif de MNS. Chaque MNS de Nataqua'Lyon est diplômé et expérimenté, titulaire d'une carte professionnelle, d'une RP et dispose d'un statut d'indépendant.
+Vous souhaitez un cours particulier ou un service proposé par Nataqua'Lyon. Contactez nous à l'aide du formulaire ou par téléphone en précisant vos demandes. Nous transmettrons votre demande à un MNS du collectif qui vous contactera dans les plus brefs délais
+Les cours et les prestations effectués par un MNS de Nataqua'Lyon sont à payer directement au MNS. Si vous connaissez un MNS de Nataqua'Lyon, vous pouvez le solliciter directement.
+Le site Nataqua'Lyon ne vend aucun service. Nataqua'Lyon ne prend aucune marge sur les services effectués par les MNS.
+Le site Nataqua'Lyon communique et diffuse les informations sur les services du collectif de MNS et met en relation les demandes avec les services proposés par le collectif.
+Chaque MNS de Nataqua'Lyon s'engage à respecter la charte de fonctionnement du collectif.
 
 
 ## Questions fréquentes

@@ -33,7 +33,7 @@ main:
   - title: "Informations Pratiques"
     url: /infoPratiques/
     child:
-      - title: "Questions réponses"
+      - title: "Questions fréquentes"
         url: /infoPratiques/#questions 
       - title: "Nos tarifs"
         url: /infoPratiques/#tarifs   
