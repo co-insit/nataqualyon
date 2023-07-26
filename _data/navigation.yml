@@ -1,59 +1,62 @@
 # main links
 main:
-  - title: "Cours particuliers et prestations"
-    url: /coursPart/
+  - title: "Cours de natation"
+    url: /nataquaPart/
     child:
-      - title: "Nos cours et prestations"
-        url: /coursPart/#coursPrestations
-      - title: "Nat' Enfant"
-        url: /coursPart/#natEnfant
-      - title: "Nat' Ado"
-        url: /coursPart/#natAdo
-      - title: "Nat' Ado"
-        url: /coursPart/#natAdulte
+      - title: "Apprendre à nager"
+        url: /nataquaPart/#cours
       - title: "Nataqua' Safe"
-        url: /coursPart/#nataquasafe  
-      - title: "Aquagym"
-        url: /coursPart/#aquagym    
+        url: /nataquaPart/#nataquaSafe
+      - title: "Nataqua' Junior"
+        url: /nataquaPart/#nataquaJunior
+      - title: "Nataqua' Senior"
+        url: /nataquaPart/#nataquaSenior
+  - title: "Cours thématiques"
+    url: /nataquaThem/
+    child:
+      - title: "Nos cours thématiques"
+        url: /nataquaThem/#nataquaThem  
+      - title: "Nataqua' Perf"
+        url: /nataquaThem/#nataquaPerf    
+      - title: "Nataqua' Bac"
+        url: /nataquaThem/#nataquaBac 
+      - title: "Nataqua' Santé"
+        url: /nataquaThem/#nataquaSante 
+      - title: "Nataqua' Rescue"
+        url: /nataquaThem/#nataquaRescue 
+      - title: "Nataqua' Forme"
+        url: /nataquaThem/#nataquaForme
+      - title: "Nataqua' Gym"
+        url: /nataquaThem/#nataquaGym 
+      - title: "Nataqua' Phobie"
+        url: /nataquaThem/#nataquaPhobie               
+  - title: "Informations Pratiques"
+    url: /infoPratiques/
+    child:
+      - title: "Questions réponses"
+        url: /infoPratiques/#questions 
+      - title: "Nos tarifs"
+        url: /infoPratiques/#tarifs   
   - title: "Prévention des noyades"
     url: /prevention/
     child:
       - title: "Nos conseils"
-        url: /prevention/conseils/
-  - title: "Informations Pratiques"
-    url: /informations/      
-  - title: "Qui sommes-nous ?"
-    url: /lsm/
-  - title: "Blog Natation sauvetage"
-    url: /blog/
+        url: /prevention/conseils/          
+  - title: "Notre collectif"
+    url: /nataqualyon/ 
+  - title: "Nataqua' Blog"
+    url: /nataquaBlog/
   #- title: "Sitemap"
   #  url: /sitemap/
 
-# main2:
-  - title: "Actualités"
-    url: /actualites/
-    #child:
-    #  - title: "Newsletter"
-    #    url: /actualites/newsletter/
-    #  - title: "Dans les médias"
-    #    url: /actualites/medias/
-    #  - title: "Archives"
-    #    url: /actualites/archives/
-  - title: "Calendrier des formations"
-    url: /calendrier/
-    child:
-    #  - title: "Ils nous font confiance"
-    #    url: /references/clients/ 
-    #  - title: "Cas Clients"
-    #   url: /references/casClients/ 
-    #  - title: "Hello World !"
-    #    url: /references/helloWorld/
-  - title: "S'inscrire"
-    url: /inscriptions/
-  
+main2:
   - title: "Contact"
     url: /contact/
-
+  - title: "Nataqua' Training"
+    url: /nataquaTraining/
+  - title: "Actualités"
+    url: /actualite/
+  
 breadcrumb_links:
    - link: sport
      label: Sport santé & citoyenneté

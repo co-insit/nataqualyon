@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Nataqua'Lyon"
+title                    : "Nataqua' Lyon"
 title_separator          : "-"
 subtitle                 : "Cours particuliers chez vous et près de chez vous" # site tagline that appears below site title in masthead
-name                     : "Nataqua'Lyon"
+name                     : "Nataqua' Lyon"
 description              : "Cours particuliers natation, école de natation, natation académie, aquagym, cours natation à domicile Lyon Métropole, surveillance, enseignement natation, prévention noyade, maître-nageur sauveteur, MNS, Lyon, Métropole de Lyon, Villeurbanne, Écully, Dardilly, Limonest, Rillieux, Caluire et Cuire, Saint Didier aux Monts d'Or, "
 url                      : http://nataqualyon.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -146,7 +146,7 @@ footer:
       # url: "https://instagram.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:contact@lishi.fr"  
+      url: "mailto:contact@nataqualyon.fr"  
 
 
 # Reading Files
