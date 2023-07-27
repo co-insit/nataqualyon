@@ -1,12 +1,12 @@
 ---
-title: Cours particuliers et prestations
+title: Leçons de natation
 layout: single
-permalink: /nataquaPart/
+permalink: /nataquaLecons/
 classes: wide
 ---
 <a name="coursPrestations"></a>
 
-## Nos cours particuliers pour apprendre à nager
+## Nos leçons pour apprendre à nager
 
 
 Quam qui iusto consequatur quae. Quaerat quis cumque ratione. Quis minus doloremque aut sapiente autem nihil voluptas distinctio. Provident sequi nostrum nihil quos nisi consequatur. Quia voluptas vel eligendi omnis explicabo exercitationem non sapiente. Maxime magnam consectetur atque accusamus 

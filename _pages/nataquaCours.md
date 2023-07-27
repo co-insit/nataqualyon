@@ -1,21 +1,20 @@
 ---
 title: Cours thématiques
 layout: single
-permalink: /nataquaThem/
+permalink: /nataquaCours/
 classes: wide
 ---
-<a name="nataquaThem"></a>
+<a name="nataquaCours"></a>
 
-## Nos cours particuliers thématiques
+## Nos cours thématiques
 
-Les prestations de Nataqua'Lyon sont un ensemble de cours particuliers thématique développé d'objectif et de compétences spécifiques. Savoir nager c'est bien mais le monde des activités aquatiques et de la natation est immense et nos prestations thématiques vous permettent de vous initiez ou de vous entrainez quelques soient vos envies ou vos objectifs. Si vous savez nager et que vous désirez vous perfectionner en natation ou préparer un défi sportif, Nataqua'Perf est fait pour vous. Si vous souhaitez vous initiez au sauvetage, choississez Nataqua'Rescue, reprendre la natation avec un objectif de sport santé et de remise en forme, nous vous proposons Nataqua'Santé ou Nataqua'Forme. 
+Nos cours thématiques s'adressent à tous ceux qui souhaitent apprendre, s'entrainer, s'initier rapidement et avec peu de contraintes, seul-e ou en petit groupe (2-3). Vous êtes nageuse ou nageur ou bien aquaphobe, nos éducateurs sportif peuvent vous proposer des cours thématiques à la carte pour vous initier au sauvetage, vous perfectionner dans une nage, préparer un défi sportif, surmonter votre angoisse de l'eau, vous remettre en forme et si vous n'aimez pas nager, vous pouvez découvrir l'aquagym et ses variantes.
 Vous préparez un concours ou un examen, nous vous proposons des contenus spécifiques dans les prestations Nataqua'Bac ou Nataqua'Concours pour vous coachez et atteindre vos objectifs. 
 
 Vous devez passer un test specifique de natation, consulter notre [article consacré](#url) sur Nataqua' Blog.
 
-Vous avez une crainte non maitrisée du milieu aquatique, peut-être que nos cours Nataqua'Phobie sont fait pour vous. 
 
-Le fonctionnement est identique aux cours particuliers. Le programme proposé par votre MNS est adapté en fonction de vos objectifs et de votre niveau. 
+Le fonctionnement est identique aux leçons particulières. Le programme proposé par votre MNS est adapté en fonction de vos objectifs et de votre niveau. 
 
 <a name="nataquaPerf"></a>
 

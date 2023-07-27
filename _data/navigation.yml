@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Cours de natation"
-    url: /nataquaPart/
+  - title: "Leçons de natation"
+    url: /nataquaLecons/
     child:
       - title: "Apprendre à nager"
         url: /nataquaPart/#cours
@@ -12,24 +12,24 @@ main:
       - title: "Nataqua' Senior"
         url: /nataquaPart/#nataquaSenior
   - title: "Cours thématiques"
-    url: /nataquaThem/
+    url: /nataquaCours/
     child:
       - title: "Nos cours thématiques"
-        url: /nataquaThem/#nataquaThem  
+        url: /nataquaCours/#nataquaCours 
       - title: "Nataqua' Perf"
-        url: /nataquaThem/#nataquaPerf    
+        url: /nataquaCours/#nataquaPerf    
       - title: "Nataqua' Bac"
-        url: /nataquaThem/#nataquaBac 
+        url: /nataquaCours/#nataquaBac 
       - title: "Nataqua' Santé"
-        url: /nataquaThem/#nataquaSante 
+        url: /nataquaCours/#nataquaSante 
       - title: "Nataqua' Rescue"
-        url: /nataquaThem/#nataquaRescue 
+        url: /nataquaCours/#nataquaRescue 
       - title: "Nataqua' Forme"
-        url: /nataquaThem/#nataquaForme
+        url: /nataquaCours/#nataquaForme
       - title: "Nataqua' Gym"
-        url: /nataquaThem/#nataquaGym 
+        url: /nataquaCours/#nataquaGym 
       - title: "Nataqua' Phobie"
-        url: /nataquaThem/#nataquaPhobie               
+        url: /nataquaCours/#nataquaPhobie               
   - title: "Informations Pratiques"
     url: /infoPratiques/
     child:

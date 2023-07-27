@@ -1,7 +1,20 @@
 /* ================= Page d'accueil ========================*/
+.page__hero--overlay {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 90vh;
+    margin-bottom: 20px;
+}
+
+
+
+p.page__lead {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
 .feature__item--center .archive__item .archive__item-body {
     width: 95%;
-
 }
 
 
@@ -20,7 +33,7 @@ a.site-title {
 }
 
 .greedy-nav .visible-links a::before {
-    background-color: #026dc6;
+    background-color:white;
 }
 
 
@@ -121,7 +134,9 @@ nav#site-nav {
 
 .greedy-nav .visible-links a {
     color: #ffffff;
+
 }
+
 
 /* ================================ Menu deroulant ================================== */
 .child-link {
@@ -166,6 +181,12 @@ li.child-link a:hover {
     margin: 50px;
 }
 
+
+h1#page-title.page__title.p-name a.u-url {
+    color: #292f6b;
+    animation: none;
+    text-decoration: none;
+}
 
 /* ========================== Footer ==========================*/
 /* ========== footer ============== */

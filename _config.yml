@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "fr-FR"
 title                    : "Nataqua' Lyon"
 title_separator          : "-"
-subtitle                 : "Cours particuliers chez vous et près de chez vous" # site tagline that appears below site title in masthead
+subtitle                 : #"Cours & Leçons de natation chez vous et près de chez vous" # site tagline that appears below site title in masthead
 name                     : "Nataqua' Lyon"
-description              : "Cours particuliers natation, école de natation, natation académie, aquagym, cours natation à domicile Lyon Métropole, surveillance, enseignement natation, prévention noyade, maître-nageur sauveteur, MNS, Lyon, Métropole de Lyon, Villeurbanne, Écully, Dardilly, Limonest, Rillieux, Caluire et Cuire, Saint Didier aux Monts d'Or, "
+description              : "Nataqua' Lyon est un collectif (coopérative) d'enseignement de cours et de leçons de natation par des éducatrices et éducateurs eurs sportifs maîtres-nageurs sauveteurs expérimentés sur Lyon et sa Métropole en centre nautique ou à domicile. L'apprentissage et le perfectionnement en natation accessible chez vous et près de chez vous."
 url                      : http://nataqualyon.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : co-insit/nataqualyon # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
