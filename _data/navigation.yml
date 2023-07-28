@@ -34,9 +34,13 @@ main:
     url: /infoPratiques/
     child:
       - title: "Questions fréquentes"
-        url: /infoPratiques/#questions 
+        url: /infoPratiques/#questionsFrequentes
+      - title: "Lieux d'intervention"
+        url: /infoPratiques/#nousTrouver  
       - title: "Nos tarifs"
-        url: /infoPratiques/#tarifs   
+        url: /infoPratiques/#tarifs
+      - title: "Charte"
+        url: /infoPratiques/#charte     
  # - title: "Prévention des noyades"
  #   url: /prevention/
 #    child:

@@ -182,4 +182,7 @@ Les MNS de Nataqua' Lyon exercent dans les établissements positionnés sur la c
 [Nous consulter](/contact/)
 
 
-## Charte
+
+<a name="charte"></a>
+
+## Charte du collectif de MNS de Nataqua' Lyon
