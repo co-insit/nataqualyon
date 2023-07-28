@@ -11,7 +11,7 @@ classes: wide
 <form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/myyqkywb" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Nom complet * </label>
-    <input type="text" name="name" id="full-name" placeholder="NOM et Prénom" required="true">
+    <input type="text" name="name" id="full-name" placeholder="Prénom et NOM" required="true">
     <label for="full-name">Âge de l'apprenant * </label>
     <input type="text" name="age" id="age" placeholder="Âge" required="true">
     <label for="email-address">Courriel *</label>    
@@ -39,7 +39,7 @@ classes: wide
       </select>  
         <label for="timely">Vous demande concerne : *</label>
       <select name="quality" id="quality" required="true">
-        <option value="" selected="" disabled="">Préciser le lieu</option>
+        <option value="" selected="" disabled="">Préciser le lieu préféré</option>
         <option value="11">à domicile</option>
         <option value="12">Centre Nautique Tony Bertrand</option>
         <option value="13">Piscine Benjamin Delessert</option>
@@ -49,7 +49,7 @@ classes: wide
       </select>
     </fieldset>
     <label for="message">Message</label>
-    <textarea rows="3" name="message" id="message" placeholder="Des précisions sur votre demande (disponibilités, niveau, prénom de l'apprenant...)" required=""></textarea>
+    <textarea rows="3" name="message" id="message" placeholder="Des précisions sur votre demande (fratrie, autre lieu, disponibilités, niveau, prénom de l'apprenant, fille ou garçon...)" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Survey Responses">
   </fieldset>
   <input type="submit" value="Envoyer">

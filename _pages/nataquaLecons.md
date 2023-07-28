@@ -9,7 +9,18 @@ classes: wide
 ## Nos leçons pour apprendre à nager
 
 
-Quam qui iusto consequatur quae. Quaerat quis cumque ratione. Quis minus doloremque aut sapiente autem nihil voluptas distinctio. Provident sequi nostrum nihil quos nisi consequatur. Quia voluptas vel eligendi omnis explicabo exercitationem non sapiente. Maxime magnam consectetur atque accusamus 
+Les leçons de natation particulières peuvent être délivrées pour 1 à 3 apprenants sous conditions de niveau et/ou âge similaire. On constate très souvent une émulation avec des petits groupes c'est pourquoi nous privilégions le regroupement lorsque c'est possible. L'apprentissage en leçons particulières possède de nombreux avantages : 
+{: .text-justify}
+- l'apprentissage ciblé et bien plus rapide qu'en cours collectif. 
+- les contraintes temporelles sont réduites pour un temps de pratique optimisé ;
+- les difficultés d'apprentissage sont perçues rapidement et les remédiations immédiates et ciblées sont proposées ;
+- un point individuel d'apprentissage est effectué régulièrement avec les parents ou l'apprenant ;
+{: .text-justify}
+
+En somme les conditions d'encadrement pédagogiques sont optimisées c'est ce qui permet de gagner du temps et de la qualité dans l'enseignement.
+{: .text-justify}
+
+Combien de séances nous faut-il pour apprendre à nager à un élève ? Aucun éducateur ne saurait esquisser une réponse sérieuse à cette question frivole. L'enseignement c'est un travail d'échange, de confiance, de relation, d'expérience qui se contruit entre l'apprenant et l'éducateur sportif et sans cesse retravaillé. Il n'y aucune recette et par conséquent pas de temps. Une chose est évidente, les leçons particulières permettent d'apprendre bien plus rapidement et avec de biens meilleurs résultats.
 {: .text-justify}
 
 <a name="nataquaSafe"></a>
