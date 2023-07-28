@@ -7,17 +7,22 @@ classes: wide
 
 ## Notre collectif
 
-Nataqua' Lyon est un collectif d'éducatrices et éducateurs sportifs coopératif.
-Nataqua' Lyon est indépendant de toute structure fédérale, professionnelle, plateforme d'enseignement.
+Nataqua' Lyon est un collectif d'éducatrices et éducateurs sportifs de nature coopérative.
+{: .text-justify}
+Nataqua' Lyon est indépendant de toute structure fédérale, professionnelle, plateforme d'enseignement...
+{: .text-justify}
 Nataqua' Lyon contrôle les conditions requises pour que les MNS du collectifs puissent exercer leur activité en toute légalité à savoir : 
+{: .text-justify}
 - diplômes conférant le titre de MNS et sa révision si nécessaire, 
 - diplôme conférant les compétence de secourisme ainsi que la formation continue annuelle, 
 - carte professionnelle à jour
 - attestation d'assurance RC Pro
 - statut d'indépendant.
 
-Les MNS vous présenteront leur carte professionnelle attestant de leur qualification et de leur honorabilité.
+Les MNS peuvent présenter sur demande leur carte professionnelle attestant de leur qualification et de leur honorabilité.
+{: .text-justify}
 
+![photo_equipe](/assets/images/photo_nataquaLyon.jpg){: .align-center}
 
 ## La plateforme Nataqua' Lyon
 
@@ -32,6 +37,7 @@ Les MNS vous présenteront leur carte professionnelle attestant de leur qualific
 - autogestion coopérative des activités et du financement de la plateforme
 - partage et retour d'expériences pédagogiques
 - indépendance totale vis-à-vis de toute structure fédérale, professionnelle...
+{: .text-justify}
 
 ## Charte des MNS de Nataqua' Lyon
 

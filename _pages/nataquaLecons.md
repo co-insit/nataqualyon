@@ -10,6 +10,7 @@ classes: wide
 
 
 Les leçons de natation particulières peuvent être délivrées pour 1 à 3 apprenants sous conditions de niveau et/ou âge similaire. On constate très souvent une émulation avec des petits groupes c'est pourquoi nous privilégions le regroupement lorsque c'est possible. L'apprentissage en leçons particulières possède de nombreux avantages : 
+![photo enfants apprentissage](/assets/images/photo_nataquaLecon1.jpg){: .align-right}
 {: .text-justify}
 - l'apprentissage ciblé et bien plus rapide qu'en cours collectif. 
 - les contraintes temporelles sont réduites pour un temps de pratique optimisé ;
@@ -26,8 +27,10 @@ Combien de séances nous faut-il pour apprendre à nager à un élève ? Aucun �
 <a name="nataquaSafe"></a>
 
 ## Nataqua' Safe
+
+![photo enfants battements dorsal](/assets/images/photo_nataquaSafe.jpg){: .align-right}
 Savoir nager est une nécessité autant que savoir lire et compter.
-Notre premier niveau de cours résolument conçu contre la noyade autour du savoir nager pour se sauver.
+Notre premier niveau de cours résolument conçu contre la noyade autour du savoir nager pour se sauver. C'est aussi le plus rapide.
 {: .text-justify}
 
 - maitrise de l'immersion
@@ -40,8 +43,13 @@ Notre premier niveau de cours résolument conçu contre la noyade autour du savo
 <a name="nataquaJunior"></a>
 
 ## Nataqua' Junior
+
+![photo enfants apprentissage ventral sur planche](/assets/images/photo_nataquaJunior3.jpg){: .align-center}
+
 Les cours particuliers pour les enfants dès 5 ans. 
 Nous construisons progressivement le savoir nager autour de plusieurs compétences aquatiques :
+
+![photo enfants apprentissage ventral sur planche](/assets/images/photo_nataquaJunior5.jpg){: .align-right}
 - maîtrise de l'immersion
 - maîtrise de l'équilibre et de la flottaison
 - maîtrise des entrées dans l'eau
@@ -62,6 +70,8 @@ L'objectif de Nataqua' Junior est la réussite plusieurs pallier d'évaluation j
 
 ## Nataqua' Senior
 
+![photo enfants apprentissage ventral sur planche](/assets/images/photo_nataquaSenior1.jpg){: .align-center}
+
 Vous ne savez pas (encore) nager et vous souhaitez y remédier. Nos cours particuliers vous permettront de faire le point sur vos compétences avant un travail ciblé sur les points clés permettant une maitrise de la nage souhaitée.
 Au programme avec votre MNS : travail d'équilibre, d'immersion et de respiration en parallèle des actions motrices pour construire un déplacement et une technique de nage efficace.
 {: .text-justify}
@@ -73,6 +83,7 @@ Vous maitriser une ou deux nages sur 50m au moins et vous souhaitez vous perfect
 
 [Je passe le cap](/contact/){: .btn .btn--danger}
 {: .text-center}
+![photo enfants apprentissage ventral sur planche](/assets/images/photo_nataquaSenior2.jpg){: .align-center}
 
 <a name="nataquaThem"></a>
 
