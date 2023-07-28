@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Welcome to Jekyll!"
+title:  "Tests et diplômes en natation"
 date:   2023-07-21 11:55:08 +0200
 categories: jekyll update
 ---
