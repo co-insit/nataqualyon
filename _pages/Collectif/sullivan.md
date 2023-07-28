@@ -4,7 +4,7 @@ layout: single
 permalink: /sulpie/
 classes: wide
 intro:
-  - excerpt: "Éducateur sportif Maître-Nageur Sauveteur depuis de nombreuses années, j'ai enseigné à tous les publics : scolaires, école de natation fédérale, loisirs, adultes la natation et certaines disciplines associées. J'ai entrainé des catégories les plus jeunes en natation course. Spécialiste du sauvetage, je m'attache désormais au sein de mon activité de MNS à développer l'enseignement de la natation sauvetage et du secourisme en milieu scolaire et au plus grand nombre. "
+  - excerpt: "Éducateur sportif Maître-Nageur Sauveteur depuis de nombreuses années, j'ai enseigné à tous les publics : scolaires, école de natation fédérale, loisirs, adultes la natation et certaines disciplines associées. J'ai entrainé des catégories les plus jeunes en natation course. Spécialiste du sauvetage, je m'attache désormais au sein de mon activité de MNS à développer l'enseignement de la natation sauvetage et du secourisme en milieu scolaire et au bénéfice du plus grand nombre. "
 ---
 {% include feature_row id="intro" type="center" %}
 

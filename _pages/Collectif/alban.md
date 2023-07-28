@@ -1,10 +1,10 @@
 ---
-title: Christine
+title: Alban
 layout: single
-permalink: /chrroy/
+permalink: /albmou/
 classes: wide
 intro:
-  - excerpt: "Texte de présentation "
+  - excerpt: "Texte de présentation de l'éducateur sportif"
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -23,7 +23,7 @@ Texte sur les éléments que tu enseignes et comment tu aimes enseigner, tes car
 - [x] Nataqua' Perf
 - [x] Nataqua' Rescue
 - [x] Nataqua' Bac
-- [x] Nataqua' Gym
+- [ ] Nataqua' Gym
 - [x] Nataqua' Santé (sous réserve)
 - [x] Nataqua' Phobie (sous réserve)
 
@@ -47,7 +47,7 @@ Texte sur les éléments que tu enseignes et comment tu aimes enseigner, tes car
 
 Vous pouvez me contacter pour tout renseignement soit par courriel soit par téléphone. Je vous répondrai dans les meilleurs délais.
 
-[Courriel](mailto::christine@nataqualyon.fr){: .btn .btn--info} ou [O6 XX XX XX XX](#){: .btn .btn--info}
+[Courriel](mailto::alban@nataqualyon.fr){: .btn .btn--info} ou [O6 XX XX XX XX](#){: .btn .btn--info}
 {: .text-center}
 
 

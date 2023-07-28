@@ -39,8 +39,8 @@ main:
         url: /infoPratiques/#nousTrouver  
       - title: "Nos tarifs"
         url: /infoPratiques/#tarifs
-      - title: "Charte"
-        url: /infoPratiques/#charte     
+      - title: "Réglement"
+        url: /infoPratiques/#ri     
  # - title: "Prévention des noyades"
  #   url: /prevention/
 #    child:
