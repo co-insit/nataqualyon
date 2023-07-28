@@ -1,5 +1,5 @@
 ---
-title: Nataqua'Lyon
+title: Nataqua' Lyon
 layout: single
 permalink: /nataqualyon/
 classes: wide

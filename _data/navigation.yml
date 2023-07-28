@@ -37,11 +37,11 @@ main:
         url: /infoPratiques/#questions 
       - title: "Nos tarifs"
         url: /infoPratiques/#tarifs   
-  - title: "Prévention des noyades"
-    url: /prevention/
-    child:
-      - title: "Nos conseils"
-        url: /prevention/conseils/          
+ # - title: "Prévention des noyades"
+ #   url: /prevention/
+#    child:
+#      - title: "Nos conseils"
+#        url: /prevention/conseils/          
   - title: "Notre collectif"
     url: /nataqualyon/ 
   - title: "Nataqua' Blog"
