@@ -50,12 +50,35 @@
 
 /*==================== splash page secondaire ========================= */
 
-.page__hero--overlay {
+.page__hero3--overlay {
     display: flex;
     flex-direction: column-reverse;
-    height: 90vh;
+    height: 50vh;
     margin-bottom: 0px;
     margin-top: 0;
+}
+
+.page__hero3-image {
+    width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+  }
+
+.page__hero3--overlay page__lead {
+    margin-bottom: 100px;
+}
+
+.page__hero3--overlay .wrapper {
+    color: white;
+    display: block;
+    margin-bottom: 150px;
+    max-width: 1280px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.page__hero3--overlay h1 {
+    font-size: 2.5em;
 }
 
 
@@ -328,7 +351,7 @@ a.btn.btn--danger {
 }
 
 .partenaire p {
-    color:#292f6b;
+    
     margin: 3px;
     padding: 3px;
     font-size: medium;
@@ -337,7 +360,7 @@ a.btn.btn--danger {
 
 
 .pied {
-    color:#292f6b;
+    
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -393,6 +416,16 @@ a.btn.btn--danger {
 
 }
 
+.page__footer-copyright {
+    background-color: #026dc6;
+    color: #fff;
+}
+
 .page__footer-copyright a {
+    color: #fff;
     margin-left: 3px;
+}
+
+.page__footer-copyright a:hover {
+    color: whitesmoke;
 }

@@ -69,9 +69,11 @@ Le plus souvent directement sur les plages au bassin. Cependant, votre MNS vous 
 
 **8. Les vestiaires des centres nautiques ?**
 
+Les vestiaires sont un arrêt obligatoire avant chaque leçon. Les jeunes enfants peuvent bien entendu y être accompagné par leur parents. Le fonctionnement diffère selon les établissements; Veuillez consulter les agents d'accueils qui sauront vous renseigner.
+
 **9. Je dois passer un test, puis je vous solliciter ?**
 
-Pour les tests et diplômes de natation, veuillez notre [article de blog](#url).
+Pour les tests et diplômes de natation, veuillez consulter notre [article de blog](#url). Si cela est nécessaire nous vous ferons passer vos certifications.
 
 
 **10. Je cherche un MNS pour des cours collectif ou un autre services à la demande ?**
@@ -82,7 +84,7 @@ Pour les tests et diplômes de natation, veuillez notre [article de blog](#url).
 
 **11. Combien de temps dure un forfait ?**
 
-Les forfaits sont valables une saison sportive. Veuillez consulter la charte de fonctionnement.
+Les forfaits sont valables une saison sportive. Les forfaits prix en saison estivale doivent être soldé durant la période estival sauf arrangemetn avec votre MNS. Veuillez consulter le réglement intérieur.
 
 
 **12. À qui dois-je payer les cours ?**
@@ -199,3 +201,26 @@ Les MNS de Nataqua' Lyon exercent dans les établissements positionnés sur la c
 <a name="ri"></a>
 
 ## Réglement intérieur des leçons et cours de Nataqua' Lyon
+
+Nataqua' Lyon s'honore à proposer des cours et des leçons uniquement avec des MNS diplomés et à jour de leurs qualifications dont l'honorabilité pourra être vérifié avec la présentation à votre demande de leur carte professionnelle.
+
+Les cours et leçons prises avec un MNS de Nataqua' Lyon doivent être payés au MNS selon les modalités suivantes : pour les prestation unitaires, paiement d'avance. Pour les forfaits, paiement d'avance ou en plusieurs fois dont la moitié lors du 1er cours. Les modes de paiements acceptées sont (espèces, chèques, virement ou autre). Vous renseigner aurpès de votre MNS. En cas de demande de justificatif (devis, facture...) la demande doit être effectuée à votre MNS.
+
+Tout cours non annulé sous 48h est du sauf motif médical dument justifié.
+
+### Dispositions spécifiques pour les prestations en centre nautique 
+Les personnes qui ont recours aux services des éducateurs sportifs de Nataqua' Lyon doivent respecter le réglement intérieur des établissements balnéaires d'accueil. Pour la ville de Lyon il est disponible [ici](#url) pour les autres établissements veuillez le consulter en amont.
+
+En cas de fermeture impromptue de l'établissement , le cours sera reporté selon le planning proposé par votre MNS.
+
+### Dispositions spécifiques pour les prestations à domicile
+Les personnes qui ont recours aux services des éducateurs sportifs de Nataqua' Lyon s'engage à accueillir les éducateurs sportifs. Ces derniers sont souvent amener à passer une tenue professionnelle afin de dispenser leur cours. En cas de nécessité, le mandant s'engage à proposer un espace de change correct aussi modeste soit-t-il.
+
+La température de l'eau doit être propice à la prestation demandée afin que celle-ci se déroule sous les meilleures auspices. Une eau trop froide pourrait empêcher le déroulement complet de l'intervention sans impacter le coût de celle-ci.
+
+En cas d'intempéries (orage, pluies violentes), la prestation pourra-t-être reportée.
+
+Les éducatrices et éducateurs sportifs peuvent intervenir dans l'eau. En cas de procédure préalable liée aux maintien de la qualité de l'eau, merci d'en avertir votre MNS en amont et de prévoir le respect de ces dispositions avec ce dernier.
+
+
+

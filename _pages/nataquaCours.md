@@ -3,6 +3,12 @@ title: Cours thématiques
 layout: single
 permalink: /nataquaCours/
 classes: wide
+header:
+   overlay_color: 
+   overlay_filter: "0.1"
+   overlay_image: assets/images/photo_nataquaCours_Splash2.jpg
+   og_image: ""
+excerpt: "L'enseignement sur mesure et optimisé pour atteindre vos objectifs en souplesse"
 ---
 <a name="nataquaCours"></a>
 

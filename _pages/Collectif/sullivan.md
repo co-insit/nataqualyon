@@ -49,7 +49,7 @@ J'enseigne et participe au développement de tous les contenus développés par 
 
 Vous pouvez me contacter pour tout renseignement soit par courriel soit par téléphone. Je vous répondrai dans les meilleurs délais.
 
-[Courriel](mailto::sulpie@nataqualyon.fr){: .btn .btn--info} ou [O6 66 O8 38 94](#){: .btn .btn--info}
+[Courriel](mailto::sulpie@nataqualyon.fr){: .btn .btn--primary} ou [O6 66 O8 38 94](#){: .btn .btn--primary}
 {: .text-center}
 
 
@@ -57,9 +57,8 @@ Vous pouvez me contacter pour tout renseignement soit par courriel soit par tél
 
 ## Ma carte professionnelle d'éducateur sportif
 
-Vous pouvez scanner le QR code de la carte pour vérifier les informations et l'honorabilité de l'Éducateur Sportif.
+Vous pouvez vérifier les informations et l'honorabilité de l'éducateur sportif en utilisant le QR code ou à défaut le numéro d'éducateur sportif sur le [Portail public des Éducateurs Sportifs](https://eapspublic.sports.gouv.fr/CarteProRecherche/Recherche).
 {: .text-justify}
-
 ![Carte professionnelle d'éducateur sportif](/assets/images/Carte_pro_SP.png/){: .align-center}
 
 

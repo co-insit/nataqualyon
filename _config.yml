@@ -23,8 +23,8 @@ name                     : "Nataqua' Lyon"
 description              : "Nataqua' Lyon est un collectif (coopérative) d'enseignement de cours et de leçons de natation par des éducatrices et éducateurs eurs sportifs maîtres-nageurs sauveteurs expérimentés sur Lyon et sa Métropole en centre nautique ou à domicile. L'apprentissage et le perfectionnement en natation accessible chez vous et près de chez vous."
 url                      : http://nataqualyon.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : co-insit/nataqualyon # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/nataquaLyonLogo_200ppp.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "co-insit/nataqualyon" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/nataquaLyonLogorond_fondBlanc_100ppp.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # /assets/images/nataquaLyonSigle.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -106,7 +106,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:contact@nataqualyon.fr"
+       url: "mailto:contact@nataqualyon.fr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"

@@ -4,16 +4,14 @@ layout: single
 permalink: /nataquaLecons/
 classes: wide
 header:
-#  overlay_color: 
-# overlay_filter: "0.1"
- overlay_image: assets/photos/splash-3.jpg
+   overlay_color: 
+   overlay_filter: "0.1"
+   overlay_image: assets/images/photo_nataquaLecon_Splash2.jpg
+   og_image: ""
+excerpt: "L'enseignement individualisé pour savoir nager plus rapidement"
 
-#  og_image: ""
-  
-excerpt: "Un système complet d'exercices d'origine taoïste"
-
-intro: 
-   - excerpt: ""
+#intro: 
+#   - excerpt: ""
 ---
 {% include feature_row id="intro" type="center1" %}
 
