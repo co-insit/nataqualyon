@@ -1,4 +1,101 @@
+/*==================== splash page accueil ========================= */
+.page__hero1--overlay {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 90vh;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.page__hero1-image {
+    width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+  }
+
+.page__hero1--overlay page__lead {
+    margin-bottom: 100px;
+}
+
+.page__hero1--overlay .wrapper {
+    color: white;
+    display: block;
+    margin-bottom: 150px;
+    max-width: 1280px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.page__hero1--overlay h1 {
+    font-size: 2.5em;
+}
+
+.logoSplash {
+    display: flex;
+    justify-content: center;
+
+}
+
+.logoSplash img {
+    margin-top: -170px;
+    z-index: 10;
+}
+
+.feature__item--center {
+   padding-top: 30px;
+}
+
+/*==================== splash page secondaire ========================= */
+
+.page__hero--overlay {
+    display: flex;
+    flex-direction: column-reverse;
+    height: 90vh;
+    margin-bottom: 0px;
+    margin-top: 0;
+}
+
+
+.feature__wrapper {
+    border-bottom: none;
+}
+
+#archive__item-body1 {
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Position du titre et de l'excerpt dans bandeau */
+#conteneur.wrapper {
+    justify-content: center;
+    
+}
+
+
+
+p.page__lead {
+    text-align: center;
+    font-family: gilroy, Arial, sans-serif;
+}
+
+/* =================== Centrer excerpt page d'accueil ================= */
+
+.page__hero--overlay .wrapper {
+    display: block;
+}
+
+.page__hero--overlay .page__lead {
+    max-width: 90%;
+}
+
+
+/* =========================================================*/
 /* ================= Page d'accueil ========================*/
+/*==========================================================*/
+
 .page__hero--overlay {
     display: flex;
     flex-direction: column-reverse;
@@ -21,49 +118,55 @@ p.page__lead {
 
 /*=============== Couleur des éléments du menu et toggle menu ==========*/
 .navicon, .navicon::before, .navicon::after {
-    background-color: white;
+    background-color: #026dc6;
 }
 
 .greedy-nav__toggle:hover .navicon, .greedy-nav__toggle:hover .navicon::before,.greedy-nav__toggle:hover .navicon::after {
-    background-color: #f9aa0c;
+    background-color:rgba(2, 109, 198, 0.5);
 }
 
-a.site-title {
-    color: #026dc6;
-}
+
+/* ======== couleur des barres hover sous les leins barre menu ==========
 
 .greedy-nav .visible-links a::before {
-    background-color:white;
+    background-color:red;
 }
-
+ */
 
 
 /* ================  barre de navigation sticky ======================= */
 
 .masthead {
-    background-color: rgba(2, 109, 198, 0.8);
+    background-color: rgba(250, 250, 250, 0.7) ;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
     padding-bottom: 5px;
     margin-bottom: 0px;
+ }
 
+ li.masthead__menu-item  {
+    color:rgba(2, 109, 198, 1);
+    font-size: large;
+    font-weight: bold;
 }
+
 
 .greedy-nav {
     background-color: rgba(0, 0, 0, 0);
 }
 
 a.site-title {
-    color: rgb(249, 170, 12);
+    color: #026dc6;
+    font-size: xx-large;
+}
+.greedy-nav a:hover {
+    color:rgba(2, 109, 198, 0.5)
 }
 
-.greedy-nav a:hover {
-    color: rgba(249, 170, 12, 0.8);
-}
 
 .fa, .fas {
-    color: black;
+    color: #026dc6;
 }
 
 
@@ -133,7 +236,7 @@ nav#site-nav {
 }
 
 .greedy-nav .visible-links a {
-    color: #ffffff;
+    color: #026dc6;
 
 }
 
@@ -158,12 +261,12 @@ nav#site-nav {
 }
 
 .dropdownmenu ul li {
-  background-color: rgba(249, 170, 12, 0.9); /* Couleur d'arriere-plan des sous-menu */
+  background-color: rgba(249, 206, 16, 0.9); /* Couleur d'arriere-plan des sous-menu */
   padding: 8px 0;
 }
 
 li.child-link a:hover {
-    color: #292f6b;
+    color: rgba(2, 109, 198, 0.7);
 }
 
 .navigation-fixe {
@@ -186,6 +289,16 @@ h1#page-title.page__title.p-name a.u-url {
     color: #292f6b;
     animation: none;
     text-decoration: none;
+}
+
+/* ========== couleur boutons =======*/
+a.btn.btn--primary {
+    background-color: #026dc6;
+}
+
+a.btn.btn--danger {
+    color: #f9ce10;
+    background-color:#026dc6;
 }
 
 /* ========================== Footer ==========================*/

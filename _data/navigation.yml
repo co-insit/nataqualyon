@@ -48,8 +48,7 @@ main:
 #        url: /prevention/conseils/          
   - title: "Notre collectif"
     url: /nataqualyon/ 
-  - title: "Nataqua' Blog"
-    url: /nataquaBlog/
+  
   #- title: "Sitemap"
   #  url: /sitemap/
 
@@ -58,8 +57,10 @@ main2:
     url: /contact/
   - title: "Nataqua' Training"
     url: /nataquaTraining/
-  - title: "Actualités"
-    url: /actualite/
+  - title: "Nataqua' Blog"
+    url: /nataquaBlog/  
+  #- title: "Actualités"
+  #  url: /actualite/
   
 breadcrumb_links:
    - link: sport

@@ -3,7 +3,20 @@ title: Leçons de natation
 layout: single
 permalink: /nataquaLecons/
 classes: wide
+header:
+#  overlay_color: 
+# overlay_filter: "0.1"
+ overlay_image: assets/photos/splash-3.jpg
+
+#  og_image: ""
+  
+excerpt: "Un système complet d'exercices d'origine taoïste"
+
+intro: 
+   - excerpt: ""
 ---
+{% include feature_row id="intro" type="center1" %}
+
 <a name="coursPrestations"></a>
 
 ## Nos leçons pour apprendre à nager

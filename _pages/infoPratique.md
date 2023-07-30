@@ -158,8 +158,8 @@ Les MNS de Nataqua' Lyon exercent dans les établissements positionnés sur la c
 
 | Temps | Mono | Duo | Trio | 
 |:------:|:------:|:-------:|
-| 30 min | 25€ | 20€ / personne | 20€ / personne |
-| 45 min | 35€ | 30€ / personne | 25€ / personne |
+| 30 min | 30€ | 25€ / personne | 20€ / personne |
+| 45 min | 45€ | 30€ / personne | 25€ / personne |
 
 ### Au forfait - 5 séances
 
