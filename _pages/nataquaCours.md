@@ -15,7 +15,7 @@ excerpt: "L'enseignement sur mesure et optimisé pour atteindre vos objectifs en
 ## Nos cours thématiques
 
 Les cours thématiques s'adressent à tous ceux qui souhaitent apprendre, s'entrainer, s'initier rapidement et avec peu de contraintes, seul-e ou en petit groupe (2-3). Vous êtes nageuse ou nageur ou bien aquaphobe, nos éducateurs sportif peuvent vous proposer des cours thématiques à la carte pour vous initier au sauvetage, vous perfectionner dans une nage, préparer un défi sportif, surmonter votre angoisse de l'eau, vous remettre en forme et si vous n'aimez pas nager, vous pouvez découvrir l'aquagym et ses variantes.
-Vous préparez un concours ou un examen, nous vous proposons des contenus spécifiques dans les prestations Nataqua'Bac ou Nataqua'Concours pour vous coachez et atteindre vos objectifs. 
+Vous préparez un concours ou un examen, nous vous proposons des contenus spécifiques dans les prestations Nataqua'Bac ou Nataqua' Concours pour vous coachez et atteindre vos objectifs. 
 {: .text-justify}
 
 Vous devez passer un test specifique de natation, consulter notre [article consacré](#url) sur Nataqua' Blog.
