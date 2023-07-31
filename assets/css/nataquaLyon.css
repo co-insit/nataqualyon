@@ -56,6 +56,8 @@
     height: 50vh;
     margin-bottom: 0px;
     margin-top: 0;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .page__hero3-image {
@@ -71,7 +73,7 @@
 .page__hero3--overlay .wrapper {
     color: white;
     display: block;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
     max-width: 1280px;
     padding-left: 1em;
     padding-right: 1em;

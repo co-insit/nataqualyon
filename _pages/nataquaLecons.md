@@ -77,9 +77,9 @@ L'objectif de Nataqua' Junior est la réussite plusieurs pallier d'évaluation j
 
 
 
-<a name="nataquaSenior"></a>
+<a name="nataquaAdulte"></a>
 
-## Nataqua' Senior
+## Nataqua' Adulte
 
 ![photo enfants apprentissage ventral sur planche](/assets/images/photo_nataquaSenior1.jpg){: .align-center}
 

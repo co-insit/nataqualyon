@@ -9,8 +9,8 @@ main:
         url: /nataquaPart/#nataquaSafe
       - title: "Nataqua' Junior"
         url: /nataquaPart/#nataquaJunior
-      - title: "Nataqua' Senior"
-        url: /nataquaPart/#nataquaSenior
+      - title: "Nataqua' Adulte"
+        url: /nataquaPart/#nataquaAdulte
   - title: "Cours thématiques"
     url: /nataquaCours/
     child:
@@ -39,7 +39,7 @@ main:
         url: /infoPratiques/#nousTrouver  
       - title: "Nos tarifs"
         url: /infoPratiques/#tarifs
-      - title: "Réglement"
+      - title: "Charte"
         url: /infoPratiques/#ri     
  # - title: "Prévention des noyades"
  #   url: /prevention/

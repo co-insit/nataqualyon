@@ -199,7 +199,7 @@ Les MNS de Nataqua' Lyon exercent dans les établissements positionnés sur la c
 
 <a name="ri"></a>
 
-## Réglement intérieur des leçons et cours de Nataqua' Lyon
+## Chartes des leçons et cours de Nataqua' Lyon
 
 Nataqua' Lyon s'honore à proposer des cours et des leçons uniquement avec des MNS diplomés et à jour de leurs qualifications dont l'honorabilité pourra être vérifié avec la présentation à votre demande de leur carte professionnelle.
 {: .text-justify}

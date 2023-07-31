@@ -1,5 +1,5 @@
 ---
-title: Nataqua' Traing
+title: Nataqua' Training
 layout: single
 permalink: /nataquaTraining/
 classes: wide
